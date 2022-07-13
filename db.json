@@ -2,19 +2,33 @@
   "posts": [
     {
       "id": 1,
-      "name": "Dr. Reynold",
-      "specialist": "Cardiologist"
-      "reviews" : "10 reviews"
+      "name": "Reynold",
+      "specialist": "ortopedist"
     },
     {
       "id": 2,
-      "name": "Dr. Mitha",
-      "reviews": "8 reviews"
+      "name": "Harry",
+      "specialist": "denttist"
     },
     {
       "id": 3,
-      "name": "Dr. Selena",
-      "reviews": "13 reviews"
+      "name": "Zach",
+      "specialist": "allergist"
     }
-  ]
-  
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "body": "comment 1",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "comment 2",
+      "postId": 1
+    }
+  ],
+  "user": {
+    "name": "user 1"
+  }
+}
