@@ -2,33 +2,22 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1"
+      "name": "Dr. Reynold",
+      "specialist": "Cardiologist"
+      "rating": "5"
+      "reviews" : "10 reviews"
     },
     {
       "id": 2,
-      "title": "Post 2",
-      "description": "this is description 2"
+      "name": "Dr. Mitha",
+      "rating": "5"
+      "reviews": "8 reviews"
     },
     {
       "id": 3,
-      "title": "Post 3",
-      "description": "this is description 3"
+      "name": "Dr. Selena",
+      "rating": "4"
+      "reviews": "13 reviews"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "comment 1",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "comment 2",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "Profile 1"
-  }
-}
+  ]
+  
