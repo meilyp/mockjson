@@ -2,17 +2,17 @@
   "doctor": [
     {
       "id": 1,
-      "title": "Post 1",
+      "title": "Doctor 1",
       "description": "this is description 1"
     },
     {
       "id": 2,
-      "title": "Post 2",
+      "title": "Doctor 2",
       "description": "this is description 2"
     },
     {
       "id": 3,
-      "title": "Post 3",
+      "title": "Doctor 3",
       "description": "this is description 3"
     }
   ],
