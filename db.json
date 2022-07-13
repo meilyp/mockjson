@@ -7,12 +7,12 @@
     },
     {
       "id": 2,
-      "title": "Doctor Mey",
+      "name": "Doctor Mey",
       "description": "dentist"
     },
     {
       "id": 3,
-      "title": "Doctor Zach",
+      "name": "Doctor Zach",
       "description": "allergist"
     }
   ],
