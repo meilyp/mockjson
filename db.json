@@ -19,12 +19,12 @@
   "review": [
     {
       "id": 1,
-      "body": "comment 1",
+      "body": "review 1",
       "doctorId": 1
     },
     {
       "id": 2,
-      "body": "comment 2",
+      "body": "review 2",
       "doctorId": 1
     }
   ],
