@@ -19,12 +19,12 @@
   "review": [
     {
       "id": 1,
-      "body": "reviews 1",
+      "body": "she's so proffessional",
       "doctorId": 1
     },
     {
       "id": 2,
-      "body": "reviews 2",
+      "body": "the doctor was friendly",
       "doctorId": 1
     }
   ],
